@@ -1,0 +1,16 @@
+### pointing parameters (example)
+656.82   #IH
+-552.25  #ID
+339.64   #NP
+-33.99   #CH
+-45.70   #ME
+90.22    #MA
+270.32   #F0
+195.83   #DAF
+-52.92   #HCES
+-477.22  #HCEC
+364.68   #DCES
+178.19   #DCEC
+-316.02  #DNP
+23.49    #TF
+#-178.90 #TX
